@@ -1,6 +1,6 @@
 # Hi there, I'm Sergey Gromkov 👋
 
-I develop websites. Working as Front-end developer in ["UMA.TECH"](https://uma.tech/).
+I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.tech/).
 
 - 🔭 I’m currently working on [matchtv.ru](https://matchtv.ru)
 - 🌱 I’m currently taking **[Node.js course](https://learn.javascript.ru/courses/nodejs)**
