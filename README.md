@@ -9,17 +9,17 @@ I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.te
 
 #### Languages and tools
 
-- Javascript
+- Javascript, React, MobX, Video.js
+- Node.js, Koa
 - Jest
-- React
-- Webpack
-- Eleventy
-- HTML5
-- CSS3
-- Sass
+- Webpack, Gulp
+- Eleventy, Symfony, 1c-Bitrix
+- HTML5, Twig, Nunjucks
+- CSS3, Sass, Less
 - PHP
-- Symfony
-- Git
+- MySql, MongoDB
+- Git, Git-flow
+- Docker
 
 ## Connect with me
 * By mail [sgromkov@gmail.com](mailto:sgromkov@gmail.com)
