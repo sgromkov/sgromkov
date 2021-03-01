@@ -5,7 +5,7 @@ I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.te
 - 🔭 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
 - 🤠 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
-- 🌱 I’m currently taking **[Node.js course](https://learn.javascript.ru/courses/nodejs)**
+- 🌱 I’m currently learning **[MERN Stack](https://www.mongodb.com/mern-stack)**
 
 #### Languages and tools
 
