@@ -2,22 +2,22 @@
 
 I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.tech/).
 
-- 🔭 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
+- 👔 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
-- 🤠 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
-- 🌱 I’m currently learning **[MERN Stack](https://www.mongodb.com/mern-stack)**
+- 🌹 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
+- 💡 At the moment I'm focused on developing my web application for the mobile ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes) game using [Next.js framework](https://nextjs.org/)
 
 #### Languages and tools
 
 - Javascript, React, MobX, Video.js
-- Node.js, Koa
+- Node.js, Next.js, Koa, Express
 - Jest
 - Webpack, Gulp
 - Eleventy, Symfony, 1c-Bitrix
-- HTML5, Twig, Nunjucks
+- HTML5, Twig, JSX, Nunjucks
 - CSS3, Sass, Less
 - PHP
-- MySql, MongoDB
+- MongoDB, MySql
 - Git, Git-flow
 - Docker
 
