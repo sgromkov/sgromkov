@@ -5,7 +5,7 @@ I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.te
 - 👔 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
 - 🌹 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
-- 💡 At the moment I'm focused on developing my web application for the mobile ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes) game using [Next.js framework](https://nextjs.org/)
+- 💡 At the moment I'm focused on developing my web application for the mobile ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes) game
 
 #### Languages and tools
 
