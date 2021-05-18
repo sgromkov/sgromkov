@@ -24,4 +24,4 @@ I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.te
 ## Connect with me
 * By mail [sgromkov@gmail.com](mailto:sgromkov@gmail.com)
 * By phone [+7 967 182-23-32](tel:+79671822332)
-* In social networks: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" /> LinkedIn](https://ru.linkedin.com/in/sgromkov), [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" /> Facebook](https://www.facebook.com/sgromkov), [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="20" /> Vk](https://vk.com/t_a_n_f)
+* In social networks: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" /> LinkedIn](https://ru.linkedin.com/in/sgromkov), [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" /> Facebook](https://www.facebook.com/sgromkov)
