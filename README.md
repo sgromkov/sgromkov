@@ -5,7 +5,7 @@ I develop websites. Frontend TeamLead in [matchtv.ru](https://matchtv.ru).
 - 👔 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
 - 🌹 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
-- 💡 At the moment I'm focused on developing my web application for the mobile ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes) game
+- 💡 Having fun with Next.js in my Pet Project - **[swgohway.com](https://github.com/sgromkov/swgoh)** website for the mobile game ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes)
 
 #### Languages and tools
 
