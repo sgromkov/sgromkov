@@ -1,6 +1,6 @@
 # Hi there, I'm Sergey Gromkov 👋
 
-I develop websites. Working as Frontend developer in ["UMA.TECH"](https://uma.tech/).
+I develop websites. Frontend TeamLead in [matchtv.ru](https://matchtv.ru).
 
 - 👔 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
