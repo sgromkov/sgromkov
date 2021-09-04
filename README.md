@@ -1,8 +1,8 @@
 # Hi there, I'm Sergey Gromkov 👋
 
-I develop websites. Frontend TeamLead in [matchtv.ru](https://matchtv.ru).
+I develop websites.
 
-- 👔 I’m currently working on **[matchtv.ru](https://matchtv.ru)**
+- 👔 I’m currently a Frontend TeamLead at **[matchtv.ru](https://matchtv.ru)**
 - 👯 Develop with friends the website of&nbsp;Russian landmarks **[samovar.travel](https://samovar.travel)**
 - 🌹 Develop my wife's personal site **[yogic.me](https://github.com/sgromkov/yogic.me)**
 - 💡 Having fun with Next.js in my Pet Project - **[swgohway.com](https://github.com/sgromkov/swgoh)** website for the mobile game ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes)
