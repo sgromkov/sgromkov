@@ -6,6 +6,7 @@
 
 - **[samovar.travel](https://samovar.travel)** - the website of&nbsp;Russian landmarks. `PHP` `HTML` `Sass` `Webpack`
 - **[yogic.me](https://yogic.me)** ([Github repo](https://github.com/sgromkov/yogic.me)) - my wife's personal website. `11ty` `Javascript` `HTML` `Sass` `Webpack`
+- **[gromkov.me](https://gromkov.me)** ([Github repo](https://github.com/sgromkov/gromkov.me)) - my personal website. `Docusaurus`
 - **[swgohway.com](https://swgohway.com)** ([Github repo](https://github.com/sgromkov/swgoh)) - the website for the mobile game ["Star Wars: Galaxy of Heroes"](https://www.ea.com/ru-ru/games/starwars/galaxy-of-heroes). `Next.js ❤️` `MongoDB` `Jest` `Material-UI`
 
 #### Languages and tools
