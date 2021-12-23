@@ -1,6 +1,6 @@
 # Hi there, I'm Sergey Gromkov 👋
 
-👔 Frontend Team Lead at **[matchtv.ru](https://matchtv.ru)**
+👔 Frontend Developer in Yandex
 
 #### My own projects
 
