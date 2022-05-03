@@ -1,6 +1,6 @@
 # Hi there, I'm Sergey Gromkov 👋
 
-👔 Frontend Developer in [Acronis](https://github.com/acronis)
+👔 Frontend Developer in [Acronis](https://github.com/acronis).
 
 #### Languages and tools
 
