@@ -2,7 +2,7 @@
 
 #### What I do
 
-- 👔 Working as a Frontend Developer in [Acronis]([https://github.com/acronis](https://www.acronis.com/en-eu/))
+- 👔 Working as a Frontend Developer in [Acronis](https://www.acronis.com/en-eu/)
 - 📕 Translating [Docusaurus documentation](https://docusaurus.io/) into Russian. [#100daysForDocusaurus](https://twitter.com/hashtag/100daysForDocusaurus)
 - 👩‍🚀 Enjoing the [Cosmos](https://cosmos.network/).
 
