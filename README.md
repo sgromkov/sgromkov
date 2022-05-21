@@ -3,8 +3,8 @@
 #### What I do
 
 - 👔 Working as a Frontend Developer in [Acronis](https://github.com/acronis)
-- 📕 Translate [Docusaurus documentation](https://docusaurus.io/) into Russian. [#100daysForDocusaurus](https://twitter.com/hashtag/100daysForDocusaurus)
-- 👩‍🚀 Love the [Cosmos](https://cosmos.network/).
+- 📕 Translating [Docusaurus documentation](https://docusaurus.io/) into Russian. [#100daysForDocusaurus](https://twitter.com/hashtag/100daysForDocusaurus)
+- 👩‍🚀 Enjoing the [Cosmos](https://cosmos.network/).
 
 #### Languages and tools
 
