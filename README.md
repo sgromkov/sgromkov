@@ -1,4 +1,4 @@
-# Hi there, I'm Sergey Gromkov 👋
+# Hi there 👋, I'm Sergey Gromkov
 
 Javascript developer in [Acronis](https://www.acronis.com/en-eu/).
 
